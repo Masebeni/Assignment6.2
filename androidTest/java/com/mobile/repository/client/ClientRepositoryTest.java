@@ -7,8 +7,7 @@ import junit.framework.Assert;
 import java.util.Set;
 
 import com.mobile.domain.client.Client;
-import com.mobile.respository.client.ClientRepository;
-import com.mobile.respository.client.Impl.ClientRepositoryImpl;
+import com.mobile.repository.client.impl.ClientRepositoryImpl;
 
 /**
  * Created by Isiphile on 2016-04-20.

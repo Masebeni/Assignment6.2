@@ -3,12 +3,8 @@ package com.mobile.repository.client;
 import android.database.SQLException;
 import android.test.AndroidTestCase;
 
-import com.mobile.domain.client.Client;
 import com.mobile.domain.client.ClientAddress;
-import com.mobile.respository.client.ClientAddressRepository;
-import com.mobile.respository.client.ClientRepository;
-import com.mobile.respository.client.Impl.ClientAddressRepositoryImpl;
-import com.mobile.respository.client.Impl.ClientRepositoryImpl;
+import com.mobile.repository.client.impl.ClientAddressRepositoryImpl;
 
 import junit.framework.Assert;
 

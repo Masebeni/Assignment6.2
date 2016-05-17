@@ -3,8 +3,7 @@ package com.mobile.repository.transaction;
 import android.test.AndroidTestCase;
 
 import com.mobile.domain.transaction.Withdraw;
-import com.mobile.respository.transaction.Impl.WithdrawRepositoryImpl;
-import com.mobile.respository.transaction.WithdrawRepository;
+import com.mobile.repository.transaction.Impl.WithdrawRepositoryImpl;
 
 import junit.framework.Assert;
 

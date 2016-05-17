@@ -4,8 +4,7 @@ import android.database.SQLException;
 import android.test.AndroidTestCase;
 
 import com.mobile.domain.account.Credit;
-import com.mobile.respository.account.CreditRepository;
-import com.mobile.respository.account.Impl.CreditRepositoryImpl;
+import com.mobile.repository.account.impl.CreditRepositoryImpl;
 
 import junit.framework.Assert;
 

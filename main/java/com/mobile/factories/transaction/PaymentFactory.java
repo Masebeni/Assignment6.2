@@ -15,4 +15,7 @@ public class PaymentFactory {
                 .amount(money)
                 .build();
     }
+    public static String getPayment(String transaction) {
+        return "Payment";
+    }
 }

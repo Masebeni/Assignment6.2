@@ -14,4 +14,8 @@ public class AirTimeFactory {
                 .amount(money)
                 .build();
     }
+
+    public static String getAirTime(String transaction) {
+        return "AirTime";
+    }
 }

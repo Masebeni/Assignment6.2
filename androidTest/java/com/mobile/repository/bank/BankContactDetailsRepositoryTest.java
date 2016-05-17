@@ -3,8 +3,7 @@ package com.mobile.repository.bank;
 import android.test.AndroidTestCase;
 
 import com.mobile.domain.bank.BankContactDetails;
-import com.mobile.respository.bank.BankContactDetailsRepository;
-import com.mobile.respository.bank.Impl.BankContactDetailsRepositoryImpl;
+import com.mobile.repository.bank.Impl.BankContactDetailsRepositoryImpl;
 
 import junit.framework.Assert;
 

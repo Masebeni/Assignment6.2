@@ -4,8 +4,7 @@ import android.database.SQLException;
 import android.test.AndroidTestCase;
 
 import com.mobile.domain.client.ClientContact;
-import com.mobile.respository.client.ClientContactRepository;
-import com.mobile.respository.client.Impl.ClientContactRepositoryImpl;
+import com.mobile.repository.client.impl.ClientContactRepositoryImpl;
 
 import junit.framework.Assert;
 

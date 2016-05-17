@@ -1,11 +1,9 @@
 package com.mobile.repository.transaction;
 
-import android.database.SQLException;
 import android.test.AndroidTestCase;
 
 import com.mobile.domain.transaction.Payment;
-import com.mobile.respository.transaction.Impl.PaymentRepositoryImpl;
-import com.mobile.respository.transaction.PaymentRepository;
+import com.mobile.repository.transaction.Impl.PaymentRepositoryImpl;
 
 import junit.framework.Assert;
 

@@ -1,14 +1,9 @@
 package com.mobile.repository.transaction;
 
-import android.database.SQLException;
 import android.test.AndroidTestCase;
 
-import com.mobile.domain.client.Client;
 import com.mobile.domain.transaction.AirTime;
-import com.mobile.respository.client.ClientRepository;
-import com.mobile.respository.client.Impl.ClientRepositoryImpl;
-import com.mobile.respository.transaction.AirTimeRepository;
-import com.mobile.respository.transaction.Impl.AirTimeRepositoryImpl;
+import com.mobile.repository.transaction.Impl.AirTimeRepositoryImpl;
 
 import junit.framework.Assert;
 

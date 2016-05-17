@@ -3,10 +3,8 @@ package com.mobile.repository.account;
 import android.database.SQLException;
 import android.test.AndroidTestCase;
 
-import com.mobile.domain.account.Credit;
 import com.mobile.domain.account.Savings;
-import com.mobile.respository.account.Impl.SavingsRepositoryImpl;
-import com.mobile.respository.account.SavingsRepository;
+import com.mobile.repository.account.impl.SavingsRepositoryImpl;
 
 import junit.framework.Assert;
 

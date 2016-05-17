@@ -8,8 +8,7 @@ import junit.framework.Assert;
 import java.util.Set;
 
 import  com.mobile.domain.bank.Bank;
-import com.mobile.respository.bank.BankRepository;
-import com.mobile.respository.bank.Impl.BankRepositoryImpl;
+import com.mobile.repository.bank.Impl.BankRepositoryImpl;
 
 /**
  * Created by Isiphile on 2016-04-20.

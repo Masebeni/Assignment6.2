@@ -1,6 +1,5 @@
 package com.mobile.repository.account;
 
-import android.database.SQLException;
 import android.test.AndroidTestCase;
 import junit.framework.Assert;
 
@@ -8,8 +7,7 @@ import junit.framework.Assert;
 import java.util.Set;
 
 import com.mobile.domain.account.Cheque;
-import com.mobile.respository.account.Impl.ChequeRepositoryImpl;
-import com.mobile.respository.account.ChequeRepository;
+import com.mobile.repository.account.impl.ChequeRepositoryImpl;
 
 /**
  *  Created by Isiphile on 2016-04-20.

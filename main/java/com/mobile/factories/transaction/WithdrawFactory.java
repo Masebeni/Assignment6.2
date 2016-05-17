@@ -14,4 +14,7 @@ public class WithdrawFactory{
                 .amount(money)
                 .build();
     }
+    public static String getWithdrawal(String transaction) {
+        return "Withdrawal";
+    }
 }
